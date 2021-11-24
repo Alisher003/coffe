@@ -1,0 +1,31 @@
+.about {
+    margin-bottom: 140px;
+}
+
+.about__wrapp {
+  padding: 137px 0 137px 85px;
+  border-radius: 10px;
+  background-image: url(../imiges/Aboutsection.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about__heading {
+    margin: 0;
+    margin-bottom: 24px;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.about__desc {
+  width: 445px;
+  margin: 0;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+}

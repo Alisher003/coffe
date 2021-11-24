@@ -1,0 +1,38 @@
+.commitment {
+    margin-bottom: 284px;
+}
+
+.commitment-container {
+    display: flex;
+    align-items: center;
+    max-width: 1150px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.commitment__img {
+    margin: 0;
+    margin-right: 125px;
+    border-radius:8px;
+  }
+
+  .commitmant__title {
+    margin: 0;
+    margin-bottom: 32px;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+  }
+
+  .commitment__desc{
+    width: 540px;
+    margin: 0;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+  }

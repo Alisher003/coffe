@@ -1,0 +1,24 @@
+.button {
+    margin: 0;
+    padding: 16px 31px;
+    text-decoration: none;
+    background: #0E8784;
+    border-radius: 6px;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FEFCF7;
+    transition: 0.3s;
+  }
+
+  .button:hover {
+    background-color: #35ada9;
+    color: #fff;
+  }
+
+  .button:active {
+    background-color: #66D2CF;
+    color: #fff;
+  }

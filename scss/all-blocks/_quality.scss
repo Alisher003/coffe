@@ -1,0 +1,51 @@
+.quality__wrapper {
+    position: relative;
+    margin: 0;
+    margin-bottom: 168px;
+    padding: 88px 655px 176px 85px;
+    background: #2C343E;
+    border-radius: 10px;
+}
+
+
+.quality-container {
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+.quality__title {
+    margin: 0;
+    margin-bottom: 32px;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.quality__desc {
+    width: 540px;
+    margin: 0;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    opacity: 0.8;
+}
+
+.quality__img {
+    width: 445px;
+    margin: 0;
+    position: absolute;
+    top: -88px;
+    left: 750px;
+    border-radius: 10px;
+}
+
+.quality__img {
+    width: 445px;
+    height: 454px;
+    border-radius: 8px;
+}
